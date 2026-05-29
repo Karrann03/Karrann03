@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=250&section=header&text=Karan%20Verma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
 # 💫 About Me:
 🔭 Currently working on: QuickRide – Uber-like Ride Booking Platform<br><br>🌱 Currently learning: Spring Boot, Microservices, Redis, Docker, System Design<br><br>👯 Looking to collaborate on: Full Stack Java & Backend Projects<br><br>🤝 Looking for help with: Scalable System Design & Advanced Backend Architecture<br><br>💬 Ask me about: Java, Spring Boot, React.js, REST APIs, MySQL<br><br>⚡ Fun fact: I enjoy building real-world scalable applications and learning how large systems work
 
