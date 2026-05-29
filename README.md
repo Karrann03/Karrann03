@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on **QuickRide**
 - 🌱 I’m learning **Spring Boot, Docker, Redis, Microservices**
 - 💬 Ask me about **Java, Spring Boot, React.js**
-- 📫 Reach me at **yourmail@gmail.com**
+- 📫 Reach me at **verma8638@gmail.com**
 - ⚡ Fun fact: **I love building backend systems**
 
 ---
